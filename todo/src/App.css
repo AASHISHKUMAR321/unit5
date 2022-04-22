@@ -1,0 +1,36 @@
+.App {
+    text-align: center;
+    width: 70%;
+    height: 500px;
+    border: 2px solid #6200ee;
+    background-color: #6200ee;
+    margin: auto;
+    margin-top: 30px;
+    border-radius: 10px;
+}
+
+.input {
+    left: 0px;
+    right: 0px;
+    bottom: 20%;
+    position: fixed;
+    width: 50%;
+    height: 60px;
+    margin: auto;
+    /* border: 1px solid red; */
+}
+
+.input>input {
+    /* padding: 18px 90px; */
+    border-radius: 10px;
+    border: 1px solid black;
+    outline: none;
+    width: 50%;
+    height: 80%;
+}
+
+.input>button {
+    padding: 8px 30px;
+    font-size: 22px;
+    margin-left: 10px;
+}

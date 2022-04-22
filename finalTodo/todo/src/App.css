@@ -1,0 +1,33 @@
+.App {
+    text-align: center;
+}
+
+.input>input {
+    padding: 10px 20px;
+}
+
+.input>button {
+    font-size: 15px;
+    margin-left: 10px;
+    padding: 10px 30px;
+}
+
+.showItem {
+    font-size: 20px;
+    width: 60%;
+    margin: auto;
+    margin-top: 10px;
+    border: 1px solid white;
+    background-color: #6200ee;
+    color: white;
+}
+
+.showItem>div {
+    display: flex;
+    justify-content: space-between;
+}
+
+.checkbox {
+    width: 70px;
+    height: 40px;
+}
